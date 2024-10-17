@@ -1,0 +1,1553 @@
+,sample_id,sampling_location,data_source,latitude,longitude,sampling_date,pws_id,water_system_name,population,well_type,well_depth,units,source_type,state,city,county,MRL,DL,analytical_methods,is_detected,analyte,concentration,pfas_total,note
+0,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,100.0,,Raw Water
+1,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+2,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+3,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+4,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+5,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+6,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,20.9,,Raw Water
+7,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+8,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+9,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+10,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+11,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+12,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,16.1,,Raw Water
+13,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+14,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+15,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+16,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+17,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+18,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,14.9,,Raw Water
+19,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+20,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+21,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+22,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+23,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+24,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,11.4,,Raw Water
+25,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+26,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+27,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+28,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+29,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+30,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,14.1,,Raw Water
+31,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+32,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+33,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+34,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+35,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+36,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,26.4,,Raw Water
+37,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.99,,Raw Water
+38,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+39,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+40,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+41,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+42,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+43,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+44,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+45,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+46,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+47,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+48,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,8.9,,Raw Water
+49,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,1.6,,Raw Water
+50,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+51,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+52,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+53,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+54,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+55,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,0.49,,Raw Water
+56,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+57,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+58,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+59,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+60,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+61,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,0.43,,Raw Water
+62,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+63,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+64,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+65,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+66,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+67,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+68,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+69,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+70,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+71,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+72,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+73,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+74,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+75,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+76,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+77,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+78,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+79,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+80,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+81,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+82,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+83,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+84,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+85,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+86,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+87,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+88,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+89,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+90,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+91,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+92,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+93,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+94,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+95,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+96,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,5.5,,Raw Water
+97,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+98,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+99,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+100,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+101,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+102,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.4,,Raw Water
+103,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+104,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+105,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+106,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+107,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+108,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.2,,Raw Water
+109,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+110,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+111,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+112,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+113,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+114,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+115,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+116,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+117,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+118,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+119,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+120,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.8,,Raw Water
+121,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+122,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+123,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+124,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+125,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+126,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,8.0,,Raw Water
+127,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+128,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+129,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,2.5,,Raw Water
+130,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+131,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+132,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.3,,Raw Water
+133,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+134,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+135,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+136,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+137,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+138,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+139,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+140,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+141,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,42.0,,Raw Water
+142,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+143,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+144,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,6.0,,Raw Water
+145,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+146,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+147,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+148,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+149,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+150,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.4,,Raw Water
+151,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+152,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+153,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+154,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+155,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+156,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.3,,Raw Water
+157,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+158,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+159,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+160,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+161,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+162,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.2,,Raw Water
+163,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+164,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+165,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+166,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+167,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+168,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,5.9,,Raw Water
+169,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.2,,Raw Water
+170,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+171,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,7.7,,Raw Water
+172,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+173,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+174,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.7,,Raw Water
+175,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+176,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+177,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+178,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+179,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+180,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.6,,Raw Water
+181,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+182,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+183,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+184,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+185,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.0,,Raw Water
+186,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,7.3,,Raw Water
+187,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+188,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+189,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+190,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+191,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+192,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+193,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+194,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+195,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+196,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+197,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+198,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+199,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+200,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+201,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+202,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+203,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+204,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+205,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+206,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+207,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+208,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+209,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+210,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.7,,Raw Water
+211,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+212,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+213,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+214,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+215,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+216,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.1,,Raw Water
+217,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+218,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+219,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+220,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+221,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+222,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,5.4,,Raw Water
+223,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+224,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+225,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+226,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+227,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+228,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.5,,Raw Water
+229,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+230,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+231,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+232,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+233,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+234,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.9,,Raw Water
+235,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+236,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+237,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,4.1,,Raw Water
+238,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+239,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.3,,Raw Water
+240,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.0,,Raw Water
+241,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.1,,Raw Water
+242,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+243,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+244,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+245,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+246,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,5.4,,Raw Water
+247,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.7,,Raw Water
+248,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+249,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+250,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+251,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,1.9,,Raw Water
+252,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+253,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+254,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+255,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+256,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+257,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2005-09-20,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+258,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+259,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+260,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+261,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+262,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+263,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2006-04-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+264,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+265,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+266,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+267,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+268,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+269,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2007-05-08,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+270,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+271,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+272,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+273,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+274,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+275,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+276,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+277,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+278,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+279,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+280,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+281,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+282,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+283,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+284,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+285,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+286,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+287,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+288,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,1.06,,Treated Water
+289,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+290,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+291,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+292,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+293,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2010-09-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+294,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+295,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+296,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+297,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+298,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+299,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+300,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+301,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+302,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+303,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+304,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+305,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-08-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+306,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+307,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+308,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+309,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+310,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+311,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2011-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+312,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+313,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+314,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+315,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+316,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+317,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+318,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+319,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+320,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+321,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+322,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+323,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+324,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+325,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+326,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+327,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+328,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+329,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+330,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+331,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+332,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+333,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+334,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+335,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+336,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+337,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+338,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+339,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+340,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+341,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+342,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+343,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+344,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+345,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+346,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+347,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2013-10-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+348,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+349,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+350,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+351,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+352,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+353,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+354,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+355,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+356,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+357,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+358,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+359,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+360,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+361,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+362,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+363,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+364,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+365,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+366,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+367,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+368,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+369,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+370,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+371,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2017-07-26,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+372,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.5,,Treated Water
+373,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+374,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+375,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+376,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+377,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+378,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+379,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+380,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+381,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+382,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+383,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2018-05-30,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+384,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+385,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+386,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+387,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+388,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+389,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+390,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+391,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+392,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+393,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,5.5,,Treated Water
+394,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+395,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+396,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+397,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+398,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+399,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,6.6,,Treated Water
+400,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+401,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+402,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+403,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+404,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+405,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+406,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+407,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+408,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+409,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+410,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+411,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+412,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+413,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+414,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+415,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+416,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+417,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+418,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+419,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+420,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+421,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+422,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+423,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+424,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+425,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+426,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+427,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+428,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+429,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,2.6,,Treated Water
+430,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+431,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+432,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+433,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+434,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+435,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,HFPO-DA,2.6,,Treated Water
+436,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+437,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+438,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+439,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+440,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+441,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+442,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+443,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+444,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+445,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+446,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+447,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+448,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+449,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2021-10-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+450,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+451,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+452,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+453,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+454,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+455,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+456,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+457,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+458,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+459,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+460,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+461,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2022-04-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+462,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+463,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+464,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+465,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+466,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+467,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+468,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+469,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+470,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+471,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+472,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+473,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-04-04,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+474,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+475,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+476,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+477,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+478,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+479,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-05-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+480,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+481,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+482,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+483,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+484,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+485,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-06-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+486,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+487,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+488,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+489,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+490,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+491,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+492,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+493,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+494,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+495,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+496,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+497,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-08-02,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+498,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+499,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+500,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+501,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+502,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+503,,Richard Miller,PFAS Testing of Ohio Public Water Systems,,,2023-09-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+504,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+505,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+506,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+507,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+508,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+509,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+510,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+511,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+512,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+513,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+514,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+515,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+516,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+517,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+518,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+519,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+520,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+521,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+522,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+523,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+524,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+525,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+526,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+527,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+528,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+529,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+530,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+531,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+532,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+533,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+534,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+535,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+536,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+537,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+538,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+539,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+540,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+541,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+542,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+543,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+544,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+545,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+546,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+547,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+548,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+549,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+550,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+551,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+552,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+553,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+554,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+555,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+556,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+557,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+558,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+559,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+560,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+561,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+562,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+563,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+564,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+565,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+566,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+567,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+568,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+569,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+570,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.8,,Raw Water
+571,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+572,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+573,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+574,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+575,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+576,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.4,,Raw Water
+577,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.5,,Raw Water
+578,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+579,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+580,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+581,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+582,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.9,,Raw Water
+583,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.9,,Raw Water
+584,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+585,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+586,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+587,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+588,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+589,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,2.5,,Raw Water
+590,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+591,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+592,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+593,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+594,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.4,,Raw Water
+595,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.2,,Raw Water
+596,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.6,,Raw Water
+597,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+598,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+599,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.4,,Raw Water
+600,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+601,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+602,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+603,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+604,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+605,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+606,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.0,,Raw Water
+607,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.3,,Raw Water
+608,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,3.0,,Raw Water
+609,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+610,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+611,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.9,,Raw Water
+612,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.6,,Raw Water
+613,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.0,,Raw Water
+614,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.0,,Raw Water
+615,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+616,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+617,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.1,,Raw Water
+618,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.4,,Raw Water
+619,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.0,,Raw Water
+620,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.4,,Raw Water
+621,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+622,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+623,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.3,,Raw Water
+624,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.3,,Raw Water
+625,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.3,,Raw Water
+626,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.8,,Raw Water
+627,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+628,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+629,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.6,,Raw Water
+630,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.6,,Raw Water
+631,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.7,,Raw Water
+632,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.4,,Raw Water
+633,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+634,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+635,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.4,,Raw Water
+636,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.6,,Raw Water
+637,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,6.6,,Raw Water
+638,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,3.9,,Raw Water
+639,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+640,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+641,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.3,,Raw Water
+642,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.8,,Raw Water
+643,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.7,,Raw Water
+644,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.8,,Raw Water
+645,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+646,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+647,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.6,,Raw Water
+648,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.4,,Raw Water
+649,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.3,,Raw Water
+650,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.3,,Raw Water
+651,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+652,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+653,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.1,,Raw Water
+654,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+655,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+656,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+657,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+658,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+659,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+660,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+661,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Raw Water
+662,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+663,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+664,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+665,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+666,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+667,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+668,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+669,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+670,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+671,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+672,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Raw Water
+673,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.7,,Raw Water
+674,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Raw Water
+675,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+676,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+677,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Raw Water
+678,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.0,,Raw Water
+679,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.4,,Raw Water
+680,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.0,,Raw Water
+681,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+682,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+683,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.6,,Raw Water
+684,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Raw Water
+685,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Raw Water
+686,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Raw Water
+687,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Raw Water
+688,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Raw Water
+689,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Raw Water
+690,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.4,,Raw Water
+691,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.3,,Raw Water
+692,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,1.9,,Raw Water
+693,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+694,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+695,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.1,,Raw Water
+696,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.0,,Raw Water
+697,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.9,,Raw Water
+698,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.4,,Raw Water
+699,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+700,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+701,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.9,,Raw Water
+702,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,5.4,,Raw Water
+703,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.4,,Raw Water
+704,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,3.0,,Raw Water
+705,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+706,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+707,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,4.5,,Raw Water
+708,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.1,,Raw Water
+709,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.7,,Raw Water
+710,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.6,,Raw Water
+711,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Raw Water
+712,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Raw Water
+713,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.9,,Raw Water
+714,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+715,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+716,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+717,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+718,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+719,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2007-05-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+720,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+721,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+722,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+723,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+724,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+725,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2008-04-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+726,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+727,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+728,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+729,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+730,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+731,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+732,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+733,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+734,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+735,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+736,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+737,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2009-04-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+738,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+739,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+740,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+741,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+742,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+743,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2010-05-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+744,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+745,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+746,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+747,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+748,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+749,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+750,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+751,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+752,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+753,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+754,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+755,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2011-05-19,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+756,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+757,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+758,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+759,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+760,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+761,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2012-06-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+762,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+763,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+764,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+765,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+766,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+767,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-01-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+768,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+769,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+770,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+771,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+772,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+773,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-04-16,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+774,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+775,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+776,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+777,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+778,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+779,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2013-07-18,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+780,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.4,,Treated Water
+781,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+782,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+783,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+784,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+785,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-02-22,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+786,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.4,,Treated Water
+787,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.6,,Treated Water
+788,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+789,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+790,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+791,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2016-06-07,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+792,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.4,,Treated Water
+793,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.0,,Treated Water
+794,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+795,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+796,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+797,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2017-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+798,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.6,,Treated Water
+799,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.0,,Treated Water
+800,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+801,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+802,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+803,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2018-05-03,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+804,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.1,,Treated Water
+805,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.7,,Treated Water
+806,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.6,,Treated Water
+807,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+808,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+809,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-03-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.2,,Treated Water
+810,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+811,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+812,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+813,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+814,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+815,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-08-13,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+816,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+817,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+818,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+819,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+820,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+821,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2019-12-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+822,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.7,,Treated Water
+823,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,3.1,,Treated Water
+824,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.1,,Treated Water
+825,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+826,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+827,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-01-28,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.2,,Treated Water
+828,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.7,,Treated Water
+829,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.3,,Treated Water
+830,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.8,,Treated Water
+831,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+832,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+833,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-02-26,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.2,,Treated Water
+834,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,3.5,,Treated Water
+835,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.5,,Treated Water
+836,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.7,,Treated Water
+837,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+838,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+839,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.7,,Treated Water
+840,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+841,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+842,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+843,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+844,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+845,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-07-09,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+846,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+847,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+848,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+849,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+850,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+851,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2020-10-06,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+852,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,4.7,,Treated Water
+853,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,5.7,,Treated Water
+854,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.8,,Treated Water
+855,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+856,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+857,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-01-11,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.4,,Treated Water
+858,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOA,2.4,,Treated Water
+859,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.1,,Treated Water
+860,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFHXS,2.7,,Treated Water
+861,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+862,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+863,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-03-29,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,2.1,,Treated Water
+864,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+865,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+866,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+867,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+868,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+869,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-07-12,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+870,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+871,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+872,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+873,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+874,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+875,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2021-11-17,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+876,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+877,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOS,0.0,,Treated Water
+878,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+879,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+880,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+881,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-25,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFBS,0.0,,Treated Water
+882,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+883,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+884,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+885,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+886,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+887,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2022-03-28,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+888,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+889,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+890,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+891,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+892,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+893,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-03-15,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+894,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFOA,0.0,,Treated Water
+895,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFOS,4.2,,Treated Water
+896,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFHXS,0.0,,Treated Water
+897,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,HFPO-DA,0.0,,Treated Water
+898,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,False,PFNA,0.0,,Treated Water
+899,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-06-22,,,,,,ng/L,drinking water,Ohio,,,,,,True,PFBS,3.7,,Treated Water
+900,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+901,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+902,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+903,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+904,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+905,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-07-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+906,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+907,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+908,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+909,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+910,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+911,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-08-01,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+912,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+913,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+914,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+915,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+916,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+917,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-09-05,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+918,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOA,,,Treated Water
+919,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,PFOS,,,Treated Water
+920,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,PFHXS,,,Treated Water
+921,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,HFPO-DA,,,Treated Water
+922,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,PFNA,,,Treated Water
+923,,Charles M. Bolton,PFAS Testing of Ohio Public Water Systems,,,2023-10-10,,,,,,ng/L,drinking water,Ohio,,,,,,,PFBS,,,Treated Water
+924,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFBS,0.0,,
+925,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFHPA,0.0,,
+926,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,2.0,537,False,PFHXS,0.0,,
+927,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFNA,0.0,,
+928,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOS,0.0,,
+929,K2207861-007,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOA,0.0,,
+930,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFBS,0.0,,
+931,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFHPA,0.0,,
+932,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,2.0,537,False,PFHXS,0.0,,
+933,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFNA,0.0,,
+934,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOS,0.0,,
+935,K2207861-001,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOA,0.0,,
+936,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFBS,0.0,,
+937,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFHPA,0.0,,
+938,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,2.0,537,False,PFHXS,0.0,,
+939,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFNA,0.0,,
+940,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOS,0.0,,
+941,K2207861-003,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOA,0.0,,
+942,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFBS,0.0,,
+943,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFHPA,0.0,,
+944,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,2.0,537,False,PFHXS,0.0,,
+945,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFNA,0.0,,
+946,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOS,0.0,,
+947,K2207861-005,Springfield-Beckley Municipal,DoD,,,2022-07-10,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOA,0.0,,
+948,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFBS,0.0,,
+949,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFHPA,0.0,,
+950,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,2.0,537,False,PFHXS,0.0,,
+951,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFNA,0.0,,
+952,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOS,0.0,,
+953,K2208608-001,Springfield-Beckley Municipal,DoD,,,2022-07-27,,,,,,ng/L,drinking water,Ohio,,,,4.0,537,False,PFOA,0.0,,
+954,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,HFPO-DA,0.0,,
+955,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFOS,0.0,,
+956,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFUNA,0.0,,
+957,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NMEFOSAA,0.0,,
+958,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NETFOSAA,0.0,,
+959,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHXA,0.0,,
+960,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDOA,0.0,,
+961,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFOA,0.0,,
+962,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDA,0.0,,
+963,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHXS,0.0,,
+964,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFBS,0.0,,
+965,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHPA,0.0,,
+966,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFNA,0.0,,
+967,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTEDA,0.0,,
+968,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTRDA,0.0,,
+969,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,9CL-PF3ONS,0.0,,
+970,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,11CL-PF3OUDS,0.0,,
+971,410-155563-1,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,ADONA,0.0,,
+972,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+973,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFOS,0.0,,
+974,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+975,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+976,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+977,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHXA,0.0,,
+978,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+979,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOA,0.58,,
+980,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+981,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXS,0.91,,
+982,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFBS,0.53,,
+983,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHPA,0.0,,
+984,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+985,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+986,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+987,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+988,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+989,410-155563-10,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+990,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+991,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFOS,0.0,,
+992,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+993,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+994,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+995,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHXA,0.0,,
+996,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+997,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFOA,0.0,,
+998,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+999,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXS,0.66,,
+1000,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFBS,0.0,,
+1001,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHPA,0.0,,
+1002,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+1003,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+1004,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+1005,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+1006,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+1007,410-155563-11,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+1008,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,HFPO-DA,0.0,,
+1009,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFOS,2.7,,
+1010,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFUNA,0.0,,
+1011,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NMEFOSAA,0.0,,
+1012,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NETFOSAA,0.0,,
+1013,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHXA,10.0,,
+1014,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDOA,0.0,,
+1015,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFOA,4.9,,
+1016,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDA,0.0,,
+1017,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHXS,1.7,,
+1018,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFBS,3.0,,
+1019,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHPA,2.8,,
+1020,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFNA,0.69,,
+1021,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTEDA,0.0,,
+1022,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTRDA,0.0,,
+1023,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,9CL-PF3ONS,0.0,,
+1024,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,11CL-PF3OUDS,0.0,,
+1025,410-155563-12,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,ADONA,0.0,,
+1026,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+1027,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFOS,0.0,,
+1028,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+1029,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+1030,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+1031,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHXA,0.0,,
+1032,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+1033,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFOA,0.0,,
+1034,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+1035,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHXS,0.0,,
+1036,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFBS,0.0,,
+1037,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFHPA,0.0,,
+1038,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+1039,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+1040,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+1041,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+1042,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+1043,410-155563-2,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+1044,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+1045,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOS,2.5,,
+1046,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+1047,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+1048,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+1049,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXA,5.2,,
+1050,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+1051,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOA,15.0,,
+1052,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+1053,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXS,54.0,,
+1054,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFBS,7.8,,
+1055,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHPA,3.4,,
+1056,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+1057,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+1058,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+1059,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+1060,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+1061,410-155563-3,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+1062,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,HFPO-DA,0.0,,
+1063,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFOS,19.0,,
+1064,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFUNA,0.0,,
+1065,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NMEFOSAA,0.0,,
+1066,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NETFOSAA,0.0,,
+1067,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHXA,11.0,,
+1068,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDOA,0.0,,
+1069,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFOA,7.7,,
+1070,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDA,0.0,,
+1071,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,18.0,537,True,PFHXS,93.0,,
+1072,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFBS,9.1,,
+1073,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHPA,4.2,,
+1074,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFNA,0.0,,
+1075,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTEDA,0.0,,
+1076,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTRDA,0.0,,
+1077,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,9CL-PF3ONS,0.0,,
+1078,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,11CL-PF3OUDS,0.0,,
+1079,410-155563-5,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,ADONA,0.0,,
+1080,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,HFPO-DA,0.0,,
+1081,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFOS,0.0,,
+1082,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFUNA,0.0,,
+1083,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NMEFOSAA,0.0,,
+1084,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NETFOSAA,0.0,,
+1085,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHXA,0.0,,
+1086,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDOA,0.0,,
+1087,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFOA,0.0,,
+1088,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDA,0.0,,
+1089,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHXS,0.0,,
+1090,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFBS,0.0,,
+1091,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFHPA,0.0,,
+1092,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFNA,0.0,,
+1093,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTEDA,0.0,,
+1094,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTRDA,0.0,,
+1095,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,9CL-PF3ONS,0.0,,
+1096,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,11CL-PF3OUDS,0.0,,
+1097,410-155563-6,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,ADONA,0.0,,
+1098,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,HFPO-DA,0.0,,
+1099,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,18.0,537,True,PFOS,96.0,,
+1100,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFUNA,0.0,,
+1101,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NMEFOSAA,0.0,,
+1102,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,NETFOSAA,0.0,,
+1103,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHXA,41.0,,
+1104,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDOA,0.0,,
+1105,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFOA,14.0,,
+1106,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFDA,0.0,,
+1107,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,18.0,537,True,PFHXS,400.0,,
+1108,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFBS,41.0,,
+1109,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,True,PFHPA,7.1,,
+1110,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFNA,0.0,,
+1111,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTEDA,0.0,,
+1112,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,PFTRDA,0.0,,
+1113,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,9CL-PF3ONS,0.0,,
+1114,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,11CL-PF3OUDS,0.0,,
+1115,410-155563-7,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.8,537,False,ADONA,0.0,,
+1116,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+1117,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,17.0,537,True,PFOS,100.0,,
+1118,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+1119,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+1120,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+1121,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXA,40.0,,
+1122,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+1123,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOA,14.0,,
+1124,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+1125,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,17.0,537,True,PFHXS,420.0,,
+1126,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFBS,41.0,,
+1127,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHPA,7.0,,
+1128,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+1129,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+1130,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+1131,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+1132,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+1133,410-155563-8,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+1134,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,HFPO-DA,0.0,,
+1135,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOS,8.8,,
+1136,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFUNA,0.0,,
+1137,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NMEFOSAA,0.0,,
+1138,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,NETFOSAA,0.0,,
+1139,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHXA,3.6,,
+1140,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDOA,0.0,,
+1141,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFOA,24.0,,
+1142,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFDA,0.0,,
+1143,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,17.0,537,True,PFHXS,62.0,,
+1144,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFBS,4.4,,
+1145,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,True,PFHPA,1.9,,
+1146,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFNA,0.0,,
+1147,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTEDA,0.0,,
+1148,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,PFTRDA,0.0,,
+1149,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,9CL-PF3ONS,0.0,,
+1150,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,11CL-PF3OUDS,0.0,,
+1151,410-155563-9,Toledo Express,DoD,,,2023-12-18,,,,,,ng/L,drinking water,Ohio,,,,1.7,537,False,ADONA,0.0,,
+1152,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,11CL-PF3OUDS,0.0,,
+1153,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1154,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1155,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.3,1633,False,5:3FTCA,0.0,,
+1156,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1157,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,7:3FTCA,0.0,,
+1158,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1159,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,9CL-PF3ONS,0.0,,
+1160,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,ADONA,0.0,,
+1161,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1162,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,NETFOSA,0.0,,
+1163,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,NETFOSAA,0.0,,
+1164,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NETFOSE,0.0,,
+1165,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,NFDHA,0.0,,
+1166,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,NMEFOSA,0.0,,
+1167,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,NMEFOSAA,0.0,,
+1168,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NMEFOSE,0.0,,
+1169,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,True,PFBA,1.8,,
+1170,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,True,PFBS,0.68,,
+1171,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFDA,0.0,,
+1172,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFDOA,0.0,,
+1173,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.91,1633,False,PFDOS,0.0,,
+1174,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFDS,0.0,,
+1175,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFEESA,0.0,,
+1176,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1177,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFHPS,0.0,,
+1178,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFHXA,0.0,,
+1179,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,True,PFHXS,1.4,,
+1180,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFMBA,0.0,,
+1181,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFMPA,0.0,,
+1182,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFNA,0.0,,
+1183,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFNS,0.0,,
+1184,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,True,PFOA,0.7,,
+1185,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,True,PFOS,0.5,,
+1186,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,True,PFOSA,3.2,,
+1187,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.91,1633,False,PFPEA,0.0,,
+1188,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFPES,0.0,,
+1189,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFTEDA,0.0,,
+1190,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFTRDA,0.0,,
+1191,410-169435-1,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.76,1633,False,PFUNA,0.0,,
+1192,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,11CL-PF3OUDS,0.0,,
+1193,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1194,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1195,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,4.2,1633,False,5:3FTCA,0.0,,
+1196,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1197,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,7:3FTCA,0.0,,
+1198,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1199,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,9CL-PF3ONS,0.0,,
+1200,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,ADONA,0.0,,
+1201,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1202,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSA,0.0,,
+1203,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSAA,0.0,,
+1204,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NETFOSE,0.0,,
+1205,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NFDHA,0.0,,
+1206,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSA,0.0,,
+1207,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSAA,0.0,,
+1208,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NMEFOSE,0.0,,
+1209,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,PFBA,0.0,,
+1210,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFBS,0.0,,
+1211,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDA,0.0,,
+1212,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDOA,0.0,,
+1213,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.89,1633,False,PFDOS,0.0,,
+1214,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDS,0.0,,
+1215,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFEESA,0.0,,
+1216,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1217,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHPS,0.0,,
+1218,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHXA,0.0,,
+1219,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1220,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMBA,0.0,,
+1221,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMPA,0.0,,
+1222,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNA,0.0,,
+1223,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNS,0.0,,
+1224,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,False,PFOA,0.0,,
+1225,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFOS,0.0,,
+1226,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,True,PFOSA,1.7,,
+1227,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.89,1633,False,PFPEA,0.0,,
+1228,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFPES,0.0,,
+1229,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTEDA,0.0,,
+1230,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTRDA,0.0,,
+1231,410-169435-10,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFUNA,0.0,,
+1232,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,11CL-PF3OUDS,0.0,,
+1233,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,3:3FTCA,0.0,,
+1234,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,4:2FTS,0.0,,
+1235,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,4.0,1633,False,5:3FTCA,0.0,,
+1236,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,6:2FTS,0.0,,
+1237,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.6,1633,False,7:3FTCA,0.0,,
+1238,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,8:2FTS,0.0,,
+1239,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,9CL-PF3ONS,0.0,,
+1240,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,ADONA,0.0,,
+1241,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,False,HFPO-DA,0.0,,
+1242,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,NETFOSA,0.0,,
+1243,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,NETFOSAA,0.0,,
+1244,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.6,1633,False,NETFOSE,0.0,,
+1245,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,NFDHA,0.0,,
+1246,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,NMEFOSA,0.0,,
+1247,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,NMEFOSAA,0.0,,
+1248,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.6,1633,False,NMEFOSE,0.0,,
+1249,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,True,PFBA,4.4,,
+1250,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,True,PFBS,1.2,,
+1251,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFDA,0.0,,
+1252,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFDOA,0.0,,
+1253,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.86,1633,False,PFDOS,0.0,,
+1254,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFDS,0.0,,
+1255,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFEESA,0.0,,
+1256,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1257,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFHPS,0.0,,
+1258,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,True,PFHXA,0.68,,
+1259,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1260,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFMBA,0.0,,
+1261,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFMPA,0.0,,
+1262,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,True,PFNA,0.39,,
+1263,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFNS,0.0,,
+1264,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,True,PFOA,1.2,,
+1265,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,True,PFOS,0.53,,
+1266,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFOSA,0.0,,
+1267,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.86,1633,True,PFPEA,0.96,,
+1268,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFPES,0.0,,
+1269,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFTEDA,0.0,,
+1270,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFTRDA,0.0,,
+1271,410-169435-12,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.72,1633,False,PFUNA,0.0,,
+1272,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,11CL-PF3OUDS,0.0,,
+1273,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1274,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1275,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,4.3,1633,False,5:3FTCA,0.0,,
+1276,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1277,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,7:3FTCA,0.0,,
+1278,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1279,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,9CL-PF3ONS,0.0,,
+1280,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,ADONA,0.0,,
+1281,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.9,1633,False,HFPO-DA,0.0,,
+1282,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,NETFOSA,0.0,,
+1283,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,NETFOSAA,0.0,,
+1284,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,NETFOSE,0.0,,
+1285,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,NFDHA,0.0,,
+1286,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,NMEFOSA,0.0,,
+1287,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,NMEFOSAA,0.0,,
+1288,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,NMEFOSE,0.0,,
+1289,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,True,PFBA,4.3,,
+1290,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,True,PFBS,1.3,,
+1291,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFDA,0.0,,
+1292,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFDOA,0.0,,
+1293,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.93,1633,False,PFDOS,0.0,,
+1294,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFDS,0.0,,
+1295,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFEESA,0.0,,
+1296,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1297,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFHPS,0.0,,
+1298,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,True,PFHXA,0.77,,
+1299,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1300,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFMBA,0.0,,
+1301,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFMPA,0.0,,
+1302,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFNA,0.0,,
+1303,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFNS,0.0,,
+1304,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,True,PFOA,1.3,,
+1305,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,True,PFOS,0.58,,
+1306,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,True,PFOSA,3.8,,
+1307,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.93,1633,True,PFPEA,0.93,,
+1308,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFPES,0.0,,
+1309,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFTEDA,0.0,,
+1310,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFTRDA,0.0,,
+1311,410-169435-13,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.77,1633,False,PFUNA,0.0,,
+1312,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,11CL-PF3OUDS,0.0,,
+1313,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1314,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1315,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.2,1633,False,5:3FTCA,0.0,,
+1316,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1317,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,7:3FTCA,0.0,,
+1318,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1319,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,9CL-PF3ONS,0.0,,
+1320,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,ADONA,0.0,,
+1321,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1322,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSA,0.0,,
+1323,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSAA,0.0,,
+1324,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NETFOSE,0.0,,
+1325,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NFDHA,0.0,,
+1326,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSA,0.0,,
+1327,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSAA,0.0,,
+1328,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NMEFOSE,0.0,,
+1329,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,True,PFBA,1.9,,
+1330,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,True,PFBS,0.65,,
+1331,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDA,0.0,,
+1332,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDOA,0.0,,
+1333,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFDOS,0.0,,
+1334,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDS,0.0,,
+1335,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFEESA,0.0,,
+1336,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1337,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHPS,0.0,,
+1338,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHXA,0.0,,
+1339,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,True,PFHXS,1.4,,
+1340,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMBA,0.0,,
+1341,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMPA,0.0,,
+1342,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNA,0.0,,
+1343,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNS,0.0,,
+1344,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,True,PFOA,0.85,,
+1345,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,True,PFOS,0.44,,
+1346,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,True,PFOSA,4.2,,
+1347,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFPEA,0.0,,
+1348,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFPES,0.0,,
+1349,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTEDA,0.0,,
+1350,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTRDA,0.0,,
+1351,410-169435-2,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFUNA,0.0,,
+1352,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,11CL-PF3OUDS,0.0,,
+1353,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,3:3FTCA,0.0,,
+1354,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,4:2FTS,0.0,,
+1355,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.4,1633,False,5:3FTCA,0.0,,
+1356,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,6:2FTS,0.0,,
+1357,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,7:3FTCA,0.0,,
+1358,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,8:2FTS,0.0,,
+1359,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,9CL-PF3ONS,0.0,,
+1360,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,ADONA,0.0,,
+1361,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.9,1633,False,HFPO-DA,0.0,,
+1362,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,NETFOSA,0.0,,
+1363,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,NETFOSAA,0.0,,
+1364,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,NETFOSE,0.0,,
+1365,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,NFDHA,0.0,,
+1366,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,NMEFOSA,0.0,,
+1367,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,NMEFOSAA,0.0,,
+1368,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.9,1633,False,NMEFOSE,0.0,,
+1369,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,False,PFBA,0.0,,
+1370,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFBS,0.0,,
+1371,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFDA,0.0,,
+1372,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFDOA,0.0,,
+1373,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.94,1633,False,PFDOS,0.0,,
+1374,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFDS,0.0,,
+1375,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFEESA,0.0,,
+1376,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,False,PFHPA,0.0,,
+1377,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFHPS,0.0,,
+1378,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFHXA,0.0,,
+1379,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,False,PFHXS,0.0,,
+1380,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFMBA,0.0,,
+1381,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFMPA,0.0,,
+1382,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFNA,0.0,,
+1383,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFNS,0.0,,
+1384,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,True,PFOA,1.1,,
+1385,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFOS,0.0,,
+1386,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,True,PFOSA,12.0,,
+1387,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.94,1633,False,PFPEA,0.0,,
+1388,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFPES,0.0,,
+1389,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFTEDA,0.0,,
+1390,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFTRDA,0.0,,
+1391,410-169435-3,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.79,1633,False,PFUNA,0.0,,
+1392,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,11CL-PF3OUDS,0.0,,
+1393,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1394,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1395,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.1,1633,False,5:3FTCA,0.0,,
+1396,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1397,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,7:3FTCA,0.0,,
+1398,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1399,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,9CL-PF3ONS,0.0,,
+1400,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,ADONA,0.0,,
+1401,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1402,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSA,0.0,,
+1403,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSAA,0.0,,
+1404,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NETFOSE,0.0,,
+1405,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NFDHA,0.0,,
+1406,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSA,0.0,,
+1407,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSAA,0.0,,
+1408,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NMEFOSE,0.0,,
+1409,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,PFBA,0.0,,
+1410,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFBS,0.0,,
+1411,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDA,0.0,,
+1412,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDOA,0.0,,
+1413,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.89,1633,False,PFDOS,0.0,,
+1414,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDS,0.0,,
+1415,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFEESA,0.0,,
+1416,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1417,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHPS,0.0,,
+1418,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHXA,0.0,,
+1419,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1420,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMBA,0.0,,
+1421,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMPA,0.0,,
+1422,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNA,0.0,,
+1423,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNS,0.0,,
+1424,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,True,PFOA,1.0,,
+1425,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFOS,0.0,,
+1426,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,True,PFOSA,13.0,,
+1427,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.89,1633,False,PFPEA,0.0,,
+1428,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFPES,0.0,,
+1429,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTEDA,0.0,,
+1430,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTRDA,0.0,,
+1431,410-169435-4,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFUNA,0.0,,
+1432,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,11CL-PF3OUDS,0.0,,
+1433,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1434,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1435,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.2,1633,False,5:3FTCA,0.0,,
+1436,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1437,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,7:3FTCA,0.0,,
+1438,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1439,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,9CL-PF3ONS,0.0,,
+1440,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,ADONA,0.0,,
+1441,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1442,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSA,0.0,,
+1443,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSAA,0.0,,
+1444,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NETFOSE,0.0,,
+1445,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NFDHA,0.0,,
+1446,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSA,0.0,,
+1447,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSAA,0.0,,
+1448,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NMEFOSE,0.0,,
+1449,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,False,PFBA,0.0,,
+1450,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFBS,0.0,,
+1451,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDA,0.0,,
+1452,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDOA,0.0,,
+1453,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFDOS,0.0,,
+1454,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDS,0.0,,
+1455,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFEESA,0.0,,
+1456,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1457,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHPS,0.0,,
+1458,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHXA,0.0,,
+1459,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1460,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMBA,0.0,,
+1461,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMPA,0.0,,
+1462,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNA,0.0,,
+1463,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNS,0.0,,
+1464,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,PFOA,0.0,,
+1465,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFOS,0.0,,
+1466,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,True,PFOSA,4.6,,
+1467,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFPEA,0.0,,
+1468,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFPES,0.0,,
+1469,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTEDA,0.0,,
+1470,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTRDA,0.0,,
+1471,410-169435-5,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFUNA,0.0,,
+1472,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,11CL-PF3OUDS,0.0,,
+1473,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1474,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1475,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,4.1,1633,False,5:3FTCA,0.0,,
+1476,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1477,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,7:3FTCA,0.0,,
+1478,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1479,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,9CL-PF3ONS,0.0,,
+1480,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,ADONA,0.0,,
+1481,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1482,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSA,0.0,,
+1483,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NETFOSAA,0.0,,
+1484,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NETFOSE,0.0,,
+1485,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NFDHA,0.0,,
+1486,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSA,0.0,,
+1487,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,NMEFOSAA,0.0,,
+1488,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,3.7,1633,False,NMEFOSE,0.0,,
+1489,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.6,1633,False,PFBA,0.0,,
+1490,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFBS,0.0,,
+1491,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDA,0.0,,
+1492,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDOA,0.0,,
+1493,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.88,1633,False,PFDOS,0.0,,
+1494,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFDS,0.0,,
+1495,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFEESA,0.0,,
+1496,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1497,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHPS,0.0,,
+1498,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFHXA,0.0,,
+1499,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1500,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMBA,0.0,,
+1501,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFMPA,0.0,,
+1502,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNA,0.0,,
+1503,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFNS,0.0,,
+1504,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,1.3,1633,False,PFOA,0.0,,
+1505,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFOS,0.0,,
+1506,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,True,PFOSA,1.9,,
+1507,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.88,1633,False,PFPEA,0.0,,
+1508,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFPES,0.0,,
+1509,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTEDA,0.0,,
+1510,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFTRDA,0.0,,
+1511,410-169435-6,Toledo Express,DoD,,,2024-04-22,,,,,,ng/L,drinking water,Ohio,,,,0.74,1633,False,PFUNA,0.0,,
+1512,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,11CL-PF3OUDS,0.0,,
+1513,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,3:3FTCA,0.0,,
+1514,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,4:2FTS,0.0,,
+1515,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,4.2,1633,False,5:3FTCA,0.0,,
+1516,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,6:2FTS,0.0,,
+1517,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,7:3FTCA,0.0,,
+1518,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.5,1633,False,8:2FTS,0.0,,
+1519,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,9CL-PF3ONS,0.0,,
+1520,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,ADONA,0.0,,
+1521,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.8,1633,False,HFPO-DA,0.0,,
+1522,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSA,0.0,,
+1523,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NETFOSAA,0.0,,
+1524,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NETFOSE,0.0,,
+1525,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NFDHA,0.0,,
+1526,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSA,0.0,,
+1527,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,NMEFOSAA,0.0,,
+1528,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,3.8,1633,False,NMEFOSE,0.0,,
+1529,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.7,1633,False,PFBA,0.0,,
+1530,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFBS,0.0,,
+1531,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDA,0.0,,
+1532,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDOA,0.0,,
+1533,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFDOS,0.0,,
+1534,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFDS,0.0,,
+1535,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFEESA,0.0,,
+1536,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHPA,0.0,,
+1537,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHPS,0.0,,
+1538,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFHXA,0.0,,
+1539,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.2,1633,False,PFHXS,0.0,,
+1540,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMBA,0.0,,
+1541,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFMPA,0.0,,
+1542,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNA,0.0,,
+1543,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFNS,0.0,,
+1544,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,1.4,1633,False,PFOA,0.0,,
+1545,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFOS,0.0,,
+1546,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,True,PFOSA,3.2,,
+1547,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.9,1633,False,PFPEA,0.0,,
+1548,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFPES,0.0,,
+1549,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTEDA,0.0,,
+1550,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFTRDA,0.0,,
+1551,410-169435-8,Toledo Express,DoD,,,2024-04-23,,,,,,ng/L,drinking water,Ohio,,,,0.75,1633,False,PFUNA,0.0,,
